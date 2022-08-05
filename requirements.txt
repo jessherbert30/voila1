@@ -1,0 +1,14 @@
+dj_database_url==1.0.0
+Django==4.1
+os
+matplotlib.pyplot
+pandas
+numpy
+snowflake.connector
+warnings
+datetime
+requests
+json
+math
+ipywidgets
+ipykernel

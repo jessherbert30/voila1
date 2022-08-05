@@ -1,12 +1,11 @@
-
-matplotlib.pyplot==3.3.4
-pandas==1.2.4
-numpy==1.20.1
+matplotlib.pyplot
+pandas
+numpy
 snowflake.connector
 warnings
 datetime
 requests
 json
 math
-ipywidgets==7.6.3
-ipykernel==5.3.4
+ipywidgets
+ipykernel
